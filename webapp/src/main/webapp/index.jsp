@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To DevOps CI-CD Pipeline TGIF, Hello Microgenesis</h1>
+<h1>Welcome To DevOps CI-CD Pipeline, Hello Microgenesis</h1>
 </body>
 <body style="color:red;">
  <div class="container">
